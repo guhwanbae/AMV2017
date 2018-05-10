@@ -10,7 +10,7 @@ Project : Autonomous Miniature Vehicle 2017
 - Ju-eun Lee / Department of Electronics Engineering, Pusan National University / 
 - Yu-rim Park / Department of Electronics Engineering, Pusan National University /
 - Jong-woo Jin / Department of Electronics Engineering, Pusan National University /
-- Seul-woo Hwang /  Department of Electronics Engineering, Pusan National University /
+- Seul-woo Hwang /  Department of Electronics Engineering, Pusan National University / through0419@gmail.com
 
 
 ## System Description
