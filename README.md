@@ -2,12 +2,10 @@
 
 Project : Autonomous Miniature Vehicle 2017
 
-###
-* team : HMD (Han-mo-deum)
+### team : HMD (Han-mo-deum)
 - "Hanmodeum" means integrated circuit in Korean.
 
-###
-* author : 
+### author : 
 - Gu-hwan Bae / School of Electrical and Computer Engineering, Pusan National University / ghbaeproject@gmail.com
 - Ju-eun Lee / Department of Electronics Engineering, Pusan National University / 
 - Yu-rim Park / Department of Electronics Engineering, Pusan National University /
