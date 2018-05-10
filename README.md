@@ -25,15 +25,15 @@ Project : Autonomous Miniature Vehicle 2017
 - No external libraries were used to implement the vehicle controller program and the image processing program.
 
 ### Topics
-* Image processing
+#### Image processing
 - Image processing application based on numerical analysis. (noise filtering, edge detecting, machine vision...)
-* Vehicle dynamics
+#### Vehicle dynamics
 - Dynamic modelling for analysis of vehicle driving.
-* Control engineering
+#### Control engineering
 - Longitudinal and lateral control of vehicle.
-* Application
+#### Application
 - Path finding and avoidance of obstacles based on computer vision.
-* Embedded system programming
+#### Embedded system programming
 - Forward and backward scheduling.
 - Using hardware components (e.g camera, dc-motor, servomotor, dms...)
 
